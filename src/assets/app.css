@@ -1,0 +1,86 @@
+header h1{
+    padding: 30px 20px;
+
+}
+.container-fluid{
+  padding-right: 0;
+  padding-left: 0;
+}
+.navbar-brand{
+  margin-left: 3rem;
+    font-size: 30px;
+}
+.description h1{
+  color:#2f4f4f;
+  font-size: 25px
+}
+.cart {
+  padding: 20px 50px;
+}
+.boxes {
+  margin-top: 20px;
+}
+
+.verify {
+  margin-top: 20px;
+}
+
+.submit {
+  margin-top:20px;
+  float: right;
+}
+
+.pagecheckout {
+  padding: 20px 50px;
+}
+.description {
+  font-size: 150%;
+  margin-top:50px;
+}
+
+.inventory-message {
+  margin-left: 20px;
+  font-weight: bold;
+  font-size: 120%;
+  color: #2f4f4f;
+}
+
+
+.product {
+  margin-top: 30px;
+  margin-left: 100px;
+  margin-bottom: 30px;
+
+
+  max-height:300px;
+  max-width:100%;
+}
+.figure {
+
+}
+
+.rating-active:before {
+   content: "\2605";
+   position: absolute;
+}
+.rating {
+  display: inline;
+  margin-left: 10px;
+  margin-right: 100px;
+  margin-top: 10px;
+  float:right;
+}
+.rating > span {
+  display: inline-block;
+  position: relative;
+  width: 1.1em;
+}
+.header-color{
+  color: #2f4f4f;
+}
+
+@media (min-width: 1200px) {
+    .container{
+        max-width: 970px;
+    }
+}

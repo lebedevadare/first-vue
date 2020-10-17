@@ -1,0 +1,50 @@
+{
+  "products": [
+    {
+      "id": 1001,
+      "title": "Матрешка под хохлому",
+      "description": "Матрешка выполненная в русском стиле опытным художником.<em>Три места.</em>Cодержит элементы орнамента 'под хохлому'.",
+      "price": 6000,
+      "image": "/static/images/matreshka-hohloma.jpg",
+      "availableInventory": 10,
+      "rating": 3
+    },
+    {
+      "id": 1002,
+      "title": "Авторская матрешка",
+      "description":"Авторская матрешка,милое изображение животных и детских лиц. Автор художник, широко известный в России матер росписи игрушек",
+      "price": 10000,
+      "image": "/static/images/avtorskaja.jpg",
+      "availableInventory": 3,
+      "rating": 5
+    },
+    {
+      "id": 1003,
+      "title": "Cимеоновская матрешка.Большой набор",
+      "description":"Матрешка выполнена в стиле одной из самых известных и популярных росписей в России. 20 мест",
+      "price": 100000,
+      "image": "/static/images/simeonovskay.jpg",
+      "availableInventory": 4,
+      "rating": 3
+    },
+    {
+      "id": 1004,
+      "title": "Матрешка 'Гжель'",
+      "description":"Приятная сине-голубая гамма.Нежная зима в исполнении опытного художника. 5 мест",
+      "price": 9500,
+      "image": "/static/images/blue-marena.jpg",
+      "availableInventory": 4,
+      "rating": 5
+    },
+     {
+      "id": 1005,
+      "title": "Матрешка 'Путин'",
+      "description":"На матрешке изображен популярный президент России В.В.Путин.5 мест",
+      "price": 25000,
+      "image": "/static/images/matreshka-putin.jpg",
+      "availableInventory": 10,
+      "rating": 5
+    }
+  ]
+
+}
